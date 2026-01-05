@@ -4,7 +4,7 @@
 We provide professional **Computer Science Assignment Help**, **Coding Support**, and **1-on-1 Tutoring** for international students in **USA, UK, Australia, and Canada**.
 我们专注于为美/英/澳/加的留学生提供靠谱的 **CS 编程作业辅导、代写、Code Review 及网课托管服务**。
 
-![这是图片](/materials/profile.jpg "CS作业代写")
+![CS作业代写](/materials/profile.jpg "CS作业代写")
 
 ## 🚀 Why Choose Us? / 为什么选择我们？
 - 🌟 **No Agent:** 没有中介！没有中介！没有中介！没有中介赚差价！！！
@@ -36,6 +36,6 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 **Get A+ in your next assignment! / 想要作业拿满分？**
 
 👉 **WeChat: [leechanx]**
-![这是图片](/materials/wechat.jpg "CS作业代写" =300x300)
+<img src="materials/wechat.jpg" alt="编程作业代写" width="300" height="300">
 
 *(Add for a free consultation & quote / 添加免费咨询报价)*
