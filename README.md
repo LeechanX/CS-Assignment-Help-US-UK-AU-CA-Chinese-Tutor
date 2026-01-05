@@ -4,6 +4,8 @@
 We provide professional **Computer Science Assignment Help**, **Coding Support**, and **1-on-1 Tutoring** for international students in **USA, UK, Australia, and Canada**.
 我们专注于为美/英/澳/加的留学生提供靠谱的 **CS 编程作业辅导、代写、Code Review 及网课托管服务**。
 
+![这是图片](/materials/profile.jpg "CS作业代写")
+
 ## 🚀 Why Choose Us? / 为什么选择我们？
 - 🌟 **Native Chinese Support:** 全中文沟通，无障碍理解你的需求。
 - 🌟 **High Distinction Guarantee:** 无论是 **USYD/UNSW** 还是 **USC/NYU/CMU**，我们都有对口学长。
