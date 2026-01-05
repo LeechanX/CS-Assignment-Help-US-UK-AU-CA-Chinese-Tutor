@@ -24,10 +24,10 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 
 ## 📂 热门课程直达 (Quick Links)
 *(点击下方链接查看具体课程满分源码)*
-- [👉 悉尼大学 USYD COMP9021 攻略](https://github.com/[你的用户名]/USYD-COMP9021-Assignment-Solutions-中文详解)
-- [👉 南加大 USC CSCI570 算法攻略](https://github.com/[你的用户名]/USC-CSCI570-Algorithms-HW-Solutions-中文)
-- [👉 多伦多大学 UofT CSC148 攻略](https://github.com/[你的用户名]/UofT-CSC148-Assignment-Past-Tests-中文)
-- [👉 CMU 15-112 Python 神课攻略](https://github.com/[你的用户名]/CMU-15-112-Term-Project-Source-Code-中文注释)
+- [👉 悉尼大学 USYD COMP9021 攻略](https://github.com/leechanx/USYD-COMP9021-Assignment-Solutions-中文详解)
+- [👉 南加大 USC CSCI570 算法攻略](https://github.com/leechanx/USC-CSCI570-Algorithms-HW-Solutions-中文)
+- [👉 多伦多大学 UofT CSC148 攻略](https://github.com/leechanx/UofT-CSC148-Assignment-Past-Tests-中文)
+- [👉 CMU 15-112 Python 神课攻略](https://github.com/leechanx/CMU-15-112-Term-Project-Source-Code-中文注释)
 
 ---
 
@@ -36,6 +36,6 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 **Get A+ in your next assignment! / 想要作业拿满分？**
 
 👉 **WeChat: [leechanx]**
-![这是图片](/materials/wechat.jpg "CS作业代写")
+![这是图片](/materials/wechat.jpg "CS作业代写" =300x300)
 
 *(Add for a free consultation & quote / 添加免费咨询报价)*
