@@ -31,11 +31,12 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 
 ---
 
-## 🚀 Contact Us / 联系方式（我真不是中介，我是主程序员！）
+## 🚀 Contact Us / 联系方式（我不是中介！我是本团队的主程序员！）
 
-**Get A+ in your next assignment! / 想要作业拿满分？**
+**Get A+ in your next assignment! / 想要作业拿高分？**
 
 👉 **WeChat: [leechanx]**
-<img src="materials/wechat.jpg" alt="编程作业代写" width="300" height="300">
+或者直接扫码：
+<img src="materials/wechat.jpg" alt="编程作业代写" width="300" height="400">
 
 *(Add for a free consultation & quote / 添加免费咨询报价)*
