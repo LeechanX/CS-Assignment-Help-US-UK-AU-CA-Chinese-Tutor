@@ -7,6 +7,7 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 ![这是图片](/materials/profile.jpg "CS作业代写")
 
 ## 🚀 Why Choose Us? / 为什么选择我们？
+- 🌟 **No Agent:** 没有中介！没有中介！没有中介！没有中介赚差价！！！
 - 🌟 **Native Chinese Support:** 全中文沟通，无障碍理解你的需求。
 - 🌟 **High Distinction Guarantee:** 无论是 **USYD/UNSW** 还是 **USC/NYU/CMU**，我们都有对口学长。
 - 🌟 **Plagiarism Free:** 每一行代码都经过 MOSS/Turnitin 查重检测，提供原创报告。
@@ -30,11 +31,11 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 
 ---
 
-## 🚀 Contact Us / 联系方式
+## 🚀 Contact Us / 联系方式（我真不是中介，我是主程序员！）
 
 **Get A+ in your next assignment! / 想要作业拿满分？**
 
 👉 **WeChat: [leechanx]**
-👉 **WeChat: [leechanx]**
+![这是图片](/materials/wechat.jpg "CS作业代写")
 
 *(Add for a free consultation & quote / 添加免费咨询报价)*
