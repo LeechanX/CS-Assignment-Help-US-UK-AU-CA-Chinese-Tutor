@@ -37,6 +37,8 @@ We provide professional **Computer Science Assignment Help**, **Coding Support**
 
 👉 **WeChat: [leechanx]**
 或者直接扫码：
-<img src="materials/wechat.jpg" alt="编程作业代写" width="300" height="400">
+
+<img src="materials/wechat.jpg" alt="编程作业代写" width="300" height="400"><img src="materials/rednote.jpg" alt="编程作业代写" width="300" height="400">
+
 
 *(Add for a free consultation & quote / 添加免费咨询报价)*
